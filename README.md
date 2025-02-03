@@ -4,7 +4,8 @@
   3. train.zip, test.zip, valid.zip - Output of running FireFightingDeviceDetectionDataset_prep.ipynb. Copy this to Directory space of Google colab before running the notebook.
   4. NGurudath_Bobyard_SimCLR.ipynb is same as what is hosted on Google Colab.
   5. optimizer_utils.py implements LARS optimizer
-  6. Hyperparameter_Analysis.ipynb - Plots the Numpy arrays collected from running different combinations of batch size, LR and temperature coeficient.  7. 
+  6. Hyperparameter_Analysis.ipynb - Plots the Numpy arrays collected from running different combinations of batch size, LR and temperature coeficient.
+  7. Analysis.md - Contains Analysis of hyperparameter tuning for the given dataset. 
 
 **Colab Notebook Details**
   1. The colab notebook shared is set up to run with T4 GPU
